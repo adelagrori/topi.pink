@@ -15,4 +15,3 @@ An interactive GUI application written in Java Swing featuring a controllable pi
 1. Clone this repository:
    ```bash
    git clone https://github.com/adelagrori/topi.pink.git
-   '''
